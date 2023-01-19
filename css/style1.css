@@ -1,0 +1,127 @@
+body{ margin: 0 auto;padding: 0 auto; background-color: #FAFAFA;}
+.header {
+  float: left;
+  width: 100%;
+  background-color: white;
+  position: fixed;
+  border-bottom: solid 1px #DBDBDB;
+}
+.img {
+  width: 7%;
+  padding-left: 14em;
+  margin-top: 1em;
+  background-color: white;
+}
+/**headrends**/
+.pagecenter {
+  float: none;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 30%;
+}
+.box {
+  float: left;
+  width: 100%;
+  background-color: white;
+  margin-top: 6em;
+  border: solid 1px #DBDBDB;
+}
+.img1 {
+  padding-left: 9em;
+  margin-top: 2em;
+}
+.box h4 {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 0.9em;
+}
+.box p {
+  font-size: 15px;
+  color: #9B9B9B;
+  width: 78%;
+  text-align: center;
+  padding-left: 3em;
+  margin-top: 0em;
+  margin-bottom: -0.5em;
+}
+.input {
+  width: 73%;
+  margin-left: 3.8em;
+  margin-top: 0em;
+  padding: 0.6em;
+  background-color: #FAFAFA;
+  border: solid 1px #DBDBDB;
+}
+.button {
+  margin-top: 1em;
+  background-color: #B2DFFC;
+  border: solid 1px #B2DFFC;
+  color: #FFF;
+  padding: 0.5em;
+  width: 77%;
+  margin-left: 3.9em;
+}
+.box2 {
+  float: left;
+  width: 100%;
+  margin-top: 0.8em;
+  margin-bottom: 4em;
+}
+.box a {
+  text-decoration: none;
+  font-size: 13ox;
+  color: #00376B;
+}
+.box h5 {
+  width: 13%;
+  margin-left: 14.8em;
+  padding: 0em;
+  background-color: white;
+  position: relative;
+  top: 2.4em;
+  margin-top: 0em;
+  color: #B7B7B7;
+  font-size: 12px;
+  text-align: center;
+}
+.hr {
+  width: 73%;
+  color: #DBDBDB;
+  margin-bottom: 2em;
+}
+.box h4 {
+  font-size: 14px;
+  font-weight: 30;
+}
+.button1 a {
+  text-decoration: none;
+  color: black;
+}
+.button1 {
+  background-color: #FAFAFA;
+  color: black;
+  padding: 1em;
+  width: 100.5%;
+  border: solid 0.5px #DBDBDB;
+  margin-bottom: 4em;
+  font-size: 14px;
+}
+/**boxends**/
+.footer {
+  float: left;
+  width: 100%;
+  word-spacing: 0.5em;
+  font-size: 14px;
+  color: #C3C3C3;
+  margin-top: 1em;
+  margin-bottom:2em;
+}	
+.pagecenter1 {
+  float: none;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 65%;
+}
+.footer1 {
+  text-align: center;
+}
